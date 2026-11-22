@@ -199,7 +199,7 @@
      Formulário → WhatsApp
      (troque o número abaixo pelo WhatsApp oficial do estúdio)
      ---------------------------------------------------------------------- */
-  const WHATSAPP_NUMBER = '5511999999999';
+  const WHATSAPP_NUMBER = '5592986412182';
   const form = document.getElementById('contactForm');
   const status = document.getElementById('formStatus');
 

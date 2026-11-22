@@ -16,9 +16,8 @@ npx serve .
 
 | O quê | Onde |
 | --- | --- |
-| WhatsApp | Procure por `5511999999999` em `index.html` (links) e em `assets/js/main.js` (variável `WHATSAPP_NUMBER`) |
-| Telefone exibido | `(11) 99999-9999` em `index.html` |
-| E-mail | `contato@guarastudio.com.br` em `index.html` e no JSON-LD |
+| WhatsApp | `5592986412182` em `index.html` (links) e em `assets/js/main.js` (variável `WHATSAPP_NUMBER`) |
+| Telefone exibido | `(92) 98641-2182` em `index.html` |
 | Instagram | `instagram.com/guarawolfmarketing` em `index.html` |
 | Cases, depoimentos e números | Seção correspondente em `index.html` (dados de exemplo — troque pelos reais) |
 | Fotos do lobo-guará | `assets/img/` — troque os arquivos mantendo os nomes, ou atualize os `src` em `index.html` |
